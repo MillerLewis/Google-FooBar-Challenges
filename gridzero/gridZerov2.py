@@ -1,3 +1,5 @@
+#THIS IS NOT COMPLETE. MOSTLY JUST SET UP
+
 #GRID ZERO
 def buttonPush(n,m,j,i):
     #n and m are number of rows and number of columns respectively
